@@ -51,7 +51,7 @@ object Day06 extends App {
 343, 153
 247, 327
 151, 197
-    """.stripMargin.trim
+    """.trim
 
   case class Point(x: Int, y: Int) {
     var score: Int = 0
