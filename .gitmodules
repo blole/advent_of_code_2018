@@ -1,0 +1,3 @@
+[submodule "kotlinPuzzleLibrary"]
+	path = kotlinPuzzleLibrary
+	url = https://github.com/blole/kotlinPuzzleLibrary
